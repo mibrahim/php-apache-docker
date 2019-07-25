@@ -4,4 +4,5 @@
 - Adds custom php.ini to allow for larger memory and larger uploads
 - Adds php modules: bz2, xml, gd
 - Adds imagemagick
+- Adds rsvg
 - Adds Java 8 JRE
